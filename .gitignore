@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+env/
+tabular-robustness/
+Lib/
+Scripts/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large ML artifacts
+*.pt
+*.pth
+*.pyc
+*.pkl
+
+# OS junk
+.DS_Store
